@@ -1,1 +1,22 @@
+<h2 align='center'>
+  <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" />
+  <br>
+   DscJobs
+</h2>
+<p>
+  Looking for experienced discord server moderators or software developers? Search our endless list of users to find the perfect fit for you next server/project!
+</p>
+
+<hr>
+
+<h2>
+  Our Links
+</h2>
+
+<ol>
+  <li><a href="https://dscjobs.org">Website</a></li>
+  <li><a href="https://dscjobs.org/discord">Discord</a></li>
+  <li><a href="https://help.dscjobs.org">Blog</a></li>
+  <li><a href="https://status.dscjobs.org">Status</a></li>
+</ol>
 
