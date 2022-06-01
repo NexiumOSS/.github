@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" />
+  <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" height='100px' width='100px' />
   <br>
    DscJobs
 </h2>
