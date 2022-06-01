@@ -7,7 +7,7 @@
   Looking for experienced discord server moderators or software developers? Search our endless list of users to find the perfect fit for you next server or project!
 </p>
 
-<hr>
+<hr />
 
 <h2>
   Our Links
@@ -19,4 +19,17 @@
   <li><a href="https://help.dscjobs.org">Blog</a></li>
   <li><a href="https://status.dscjobs.org">Status</a></li>
 </ol>
+
+<hr/>
+
+## Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Next.JS-0C0032?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Typescript-0C0032?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-0C0032?style=for-the-badge&logo=react" />
+ </p>
+
+---
 
