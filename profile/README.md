@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Typescript-0C0032?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Express-0C0032?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/Fastify-0C0032?style=for-the-badge&logo=fastify" />
+  <img src="https://img.shields.io/badge/Electron-0C0032?style=for-the-badge&logo=electron" />
  </p>
 
 <hr />
