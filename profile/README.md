@@ -4,7 +4,7 @@
    DscJobs
 </h2>
 <p>
-  Looking for experienced discord server moderators or software developers? Search our endless list of users to find the perfect fit for you next server/project!
+  Looking for experienced discord server moderators or software developers? Search our endless list of users to find the perfect fit for you next server or project!
 </p>
 
 <hr>
