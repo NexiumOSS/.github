@@ -1,10 +1,11 @@
 <h2 align='center'>
   <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" height='100px' width='100px' />
   <br>
-   DscJobs
+   JobCord
 </h2>
 <p>
-  Looking for experienced discord server moderators or software developers? Search our endless list of users to find the perfect fit for you next server or project!
+  Looking for experienced discord server moderators or software developers? 
+  Search our endless list of users to find the perfect fit for you next server or project!
 </p>
 
 <hr />
