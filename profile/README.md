@@ -9,6 +9,15 @@
 
 <hr />
 
+<h3 align='center'>
+   What is Nexium?
+</h3>
+<p>
+  Nexium is your go-to platform for finding skilled moderators and expert developers who can elevate your Discord server to new heights. Whether you’re building a thriving community or developing a groundbreaking project, Nexium bridges the gap between your needs and the perfect professionals to fulfill them.
+</p>
+
+<hr />
+
 ## Technologies
 
 <p>
