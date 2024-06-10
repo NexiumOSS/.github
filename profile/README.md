@@ -18,6 +18,35 @@
 
 <hr />
 
+<h3 align='center'>
+   Why Choose Nexium?
+</h3>
+<p>
+  • <strong>Effortless Connections</strong>: Easily connect with experienced moderators and developers.
+</p>
+<p>
+  • <strong>Quality Talent</strong>: Access a pool of vetted and highly skilled individuals.
+</p>
+<p>
+  • <strong>Streamlined Process</strong>: Our user-friendly platform makes finding the right talent quick and efficient.
+</p>
+<p>
+  • <strong>Community Focused</strong>: We understand the unique needs of Discord communities and projects.
+</p>
+
+<hr />
+
+<h3 align='center'>
+   Join Nexium Today!
+</h3>
+<p>
+  Sign up now and discover how Nexium can help you build and maintain an amazing Discord server. Let us be your partner in creating a vibrant and well-managed community.
+  <br /><br />
+  Welcome to a new era of Discord collaboration. Welcome to Nexium.
+</p>
+
+<hr />
+
 ## Technologies
 
 <p>
