@@ -1,10 +1,10 @@
 <h2 align='center'>
   <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" height='100px' width='100px' />
   <br>
-   Nexium
+   Welcome to Nexium!
 </h2>
 <p>
-  Nexium is your go-to platform for finding skilled moderators and expert developers who can elevate your Discord server to new heights. Whether you’re building a thriving community or developing a groundbreaking project, Nexium bridges the gap between your needs and the perfect professionals to fulfill them.
+  Are you a Discord server owner in search of exceptional moderators and talented developers? Look no further! Nexium is here to revolutionize the way you connect with top-notch talent in the Discord community.
 </p>
 
 <hr />
