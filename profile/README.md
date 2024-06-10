@@ -1,11 +1,10 @@
 <h2 align='center'>
   <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" height='100px' width='100px' />
   <br>
-   JobCord
+   Nexium
 </h2>
 <p>
-  Looking for experienced discord server moderators or software developers? 
-  Search our endless list of users to find the perfect fit for you next server or project!
+  Nexium is your go-to platform for finding skilled moderators and expert developers who can elevate your Discord server to new heights. Whether you’re building a thriving community or developing a groundbreaking project, Nexium bridges the gap between your needs and the perfect professionals to fulfill them.
 </p>
 
 <hr />
@@ -31,9 +30,6 @@
 </h2>
 
 <ol>
-  <li><a href="https://dscjobs.org">Website</a></li>
-  <li><a href="https://dscjobs.org/discord">Discord</a></li>
-  <li><a href="https://help.dscjobs.org">Blog</a></li>
-  <li><a href="https://status.dscjobs.org">Status</a></li>
+  <li><a href="https://discord.gg/yYvREFtzPN">Discord</a></li>
 </ol>
 
