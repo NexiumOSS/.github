@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://media.discordapp.net/attachments/653733403841134600/981430319880241172/IMG_5366.png" height='100px' width='100px' />
+  <img src="https://cdn.discordapp.com/attachments/1132817220611866745/1249652238431948930/B80709B9-85CE-4886-B423-02388D4A6913.png?ex=666814d7&is=6666c357&hm=0b43def9ca67943a5eba4581c7af75178a1ca378ace5acdb35252ebb511a6180&" height='100px' width='100px' />
   <br>
    Welcome to Nexium!
 </h2>
